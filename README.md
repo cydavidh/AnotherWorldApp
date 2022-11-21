@@ -1,4 +1,4 @@
-# Android Project
+# Isekai Diary App
 
 An android project, created in collaboration with [Phone](https://github.com/PhonePyae1) and [Aiden](https://github.com/ai-den), that allows you to add photos and diary memories to a map.
 <div>
